@@ -1,0 +1,182 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.bat-1-icon {
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-2xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.bat-1-icon,
+.batman-2022,
+.imagini14 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+.imagini14 {
+  width: 40.68%;
+  right: 59.32%;
+  bottom: 0;
+  filter: blur(60px);
+}
+.batman-2022 {
+  width: 100%;
+  display: inline-block;
+}
+.text7 {
+  position: absolute;
+  height: 4.44%;
+  width: 20.78%;
+  top: 0.19%;
+  right: 33.49%;
+  bottom: 95.37%;
+  left: 45.73%;
+  font-size: var(--font-size-2xl);
+}
+.imagini15 {
+  position: absolute;
+  height: 58.43%;
+  width: 21.77%;
+  top: 19.26%;
+  right: 67.86%;
+  bottom: 22.31%;
+  left: 10.36%;
+}
+.when-the-riddler {
+  position: absolute;
+  height: 13.89%;
+  width: 52.03%;
+  top: 61.57%;
+  left: 45.73%;
+  font-size: var(--font-size-2xs);
+  display: inline-block;
+}
+.director-matt-reeves,
+.genre-action-crime {
+  position: absolute;
+  top: 18.43%;
+  left: 45.73%;
+}
+.director-matt-reeves {
+  top: 25.46%;
+}
+.stars-robert-pattinson,
+.writers-matt-reeves {
+  position: absolute;
+  top: 32.5%;
+  left: 45.73%;
+}
+.stars-robert-pattinson {
+  top: 39.54%;
+}
+.batman-child {
+  height: 11.57%;
+  width: 8.7%;
+  top: 78.89%;
+  right: 23.91%;
+  bottom: 9.54%;
+  left: 67.4%;
+  border-radius: var(--br-xl);
+  background-color: var(--color-black);
+  border: 6px solid var(--color-white);
+}
+.batman-child,
+.batman-inner,
+.batman-item {
+  position: absolute;
+  box-sizing: border-box;
+}
+.batman-item {
+  height: 6.2%;
+  width: 8.1%;
+  top: 82.22%;
+  right: 43.87%;
+  bottom: 11.57%;
+  left: 48.02%;
+  border-radius: var(--br-lg);
+  background-color: var(--color-black);
+  border: 4.3px solid var(--color-white);
+}
+.batman-inner {
+  height: 6.6%;
+  width: 0.23%;
+  top: 82.02%;
+  right: 47.81%;
+  bottom: 11.37%;
+  left: 51.96%;
+  border-right: 4.3px solid var(--color-white);
+}
+.arrow-icon7,
+.bookmark-icon7,
+.like-icon14,
+.like-icon15,
+.play-icon7 {
+  position: absolute;
+  height: 4.34%;
+  width: 2.44%;
+  top: 82.89%;
+  right: 48.53%;
+  bottom: 12.77%;
+  left: 49.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.arrow-icon7,
+.bookmark-icon7,
+.like-icon15,
+.play-icon7 {
+  top: 83.42%;
+  right: 44.89%;
+  bottom: 12.24%;
+  left: 52.67%;
+}
+.arrow-icon7,
+.bookmark-icon7,
+.play-icon7 {
+  height: 6.02%;
+  width: 3.39%;
+  top: 81.67%;
+  right: 7.5%;
+  bottom: 12.31%;
+  left: 89.11%;
+}
+.arrow-icon7,
+.play-icon7 {
+  top: 81.76%;
+  right: 26.56%;
+  bottom: 12.22%;
+  left: 70.05%;
+}
+.arrow-icon7 {
+  top: 2.41%;
+  right: 2.24%;
+  bottom: 91.57%;
+  left: 94.38%;
+}
+.h-56min {
+  position: absolute;
+  top: 93.15%;
+  left: 68.13%;
+  font-size: var(--font-size-sm);
+}
+.batman {
+  position: relative;
+  background-color: var(--color-black);
+  width: 1920px;
+  height: 1080px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-k2d);
+}

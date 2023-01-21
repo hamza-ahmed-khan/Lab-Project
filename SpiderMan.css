@@ -1,0 +1,193 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.imagini,
+.spider-2-icon {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.spider-2-icon {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  border-radius: var(--br-2xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.imagini {
+  height: 99.81%;
+  width: 40.68%;
+  top: 0.19%;
+  right: 59.32%;
+  filter: blur(60px);
+}
+.spider-man-no-way {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.imagini1,
+.text {
+  position: absolute;
+}
+.text {
+  height: 12.31%;
+  width: 32.71%;
+  top: 0.19%;
+  right: 21.56%;
+  bottom: 87.5%;
+  left: 45.73%;
+  font-size: var(--font-size-2xl);
+}
+.imagini1 {
+  height: 58.24%;
+  width: 21.77%;
+  top: 19.44%;
+  right: 67.86%;
+  bottom: 22.31%;
+  left: 10.36%;
+}
+.with-spider-mans-identity {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.with-spider-mans-identity-container {
+  position: absolute;
+  height: 8.98%;
+  width: 52.03%;
+  top: 61.57%;
+  left: 45.73%;
+  font-size: var(--font-size-2xs);
+  display: inline-block;
+}
+.genre-action-adventure {
+  position: absolute;
+  top: 18.43%;
+  left: 45.73%;
+}
+.director-jon-watts,
+.writers-chris-mckenna {
+  position: absolute;
+  top: 25.46%;
+  left: 45.73%;
+}
+.writers-chris-mckenna {
+  top: 32.5%;
+}
+.stars-tom-holland {
+  position: absolute;
+  top: 39.54%;
+  left: 46.04%;
+}
+.spider-man-child {
+  height: 11.57%;
+  width: 8.7%;
+  top: 78.89%;
+  right: 23.91%;
+  bottom: 9.54%;
+  left: 67.4%;
+  border-radius: var(--br-xl);
+  background-color: var(--color-black);
+  border: 6px solid var(--color-white);
+}
+.spider-man-child,
+.spider-man-inner,
+.spider-man-item {
+  position: absolute;
+  box-sizing: border-box;
+}
+.spider-man-item {
+  height: 6.2%;
+  width: 8.1%;
+  top: 82.22%;
+  right: 43.87%;
+  bottom: 11.57%;
+  left: 48.02%;
+  border-radius: var(--br-lg);
+  background-color: var(--color-black);
+  border: 4.3px solid var(--color-white);
+}
+.spider-man-inner {
+  height: 6.6%;
+  width: 0.23%;
+  top: 82.02%;
+  right: 47.81%;
+  bottom: 11.37%;
+  left: 51.96%;
+  border-right: 4.3px solid var(--color-white);
+}
+.arrow-icon,
+.bookmark-icon,
+.like-icon,
+.like-icon1,
+.play-icon {
+  position: absolute;
+  height: 4.34%;
+  width: 2.44%;
+  top: 82.89%;
+  right: 48.53%;
+  bottom: 12.77%;
+  left: 49.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.arrow-icon,
+.bookmark-icon,
+.like-icon1,
+.play-icon {
+  top: 83.42%;
+  right: 44.89%;
+  bottom: 12.24%;
+  left: 52.67%;
+}
+.arrow-icon,
+.bookmark-icon,
+.play-icon {
+  height: 6.02%;
+  width: 3.39%;
+  top: 81.67%;
+  right: 7.5%;
+  bottom: 12.31%;
+  left: 89.11%;
+}
+.arrow-icon,
+.play-icon {
+  top: 81.76%;
+  right: 26.56%;
+  bottom: 12.22%;
+  left: 70.05%;
+}
+.arrow-icon {
+  top: 2.41%;
+  right: 2.24%;
+  bottom: 91.57%;
+  left: 94.38%;
+}
+.h-28min {
+  position: absolute;
+  top: 93.15%;
+  left: 68.02%;
+  font-size: var(--font-size-sm);
+}
+.spider-man {
+  position: relative;
+  background-color: var(--color-black);
+  width: 1920px;
+  height: 1080px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-k2d);
+}

@@ -1,0 +1,2288 @@
+@keyframes scale-down-center {
+  0% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+  to {
+    -webkit-transform: scale(0.5);
+    transform: scale(0.5);
+  }
+}
+@keyframes shadow-inset-center {
+  0% {
+    box-shadow: inset 0 0 0 0 transparent;
+  }
+  to {
+    box-shadow: inset 0 0 14px 0 rgb(0 0 0/50%);
+  }
+}
+body {
+  margin: 0;
+  line-height: normal;
+}
+.moviemania1 {
+  height: 1.14%;
+  width: 12.11%;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-itim);
+  text-align: left;
+}
+.batman2,
+.login,
+.moviemania1 {
+  position: absolute;
+  display: inline-block;
+}
+.login {
+  height: 1.14%;
+  width: 5.19%;
+  top: 0;
+  left: 74.54%;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  text-align: left;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+}
+.login:hover {
+  animation: 1s ease 0s infinite normal none scale-down-center;
+  opacity: 1;
+}
+.batman2 {
+  height: 2.11%;
+  width: 22.42%;
+  top: 20.02%;
+  left: 19.87%;
+}
+.morbius2,
+.the-bad-guys2,
+.the-northman1,
+.the-secrets-of2,
+.wednesday2 {
+  position: absolute;
+  height: 2.11%;
+  width: 22.42%;
+  top: 19.97%;
+  left: 59.01%;
+  display: inline-block;
+}
+.morbius2,
+.the-bad-guys2,
+.the-northman1,
+.the-secrets-of2 {
+  top: 46.31%;
+  left: 18.97%;
+}
+.morbius2,
+.the-northman1,
+.the-secrets-of2 {
+  top: 71.91%;
+  left: 59.01%;
+}
+.the-northman1,
+.the-secrets-of2 {
+  left: 18.97%;
+}
+.the-northman1 {
+  top: 97.89%;
+}
+.doctor-strange2 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.multiverse-of-madness1 {
+  margin: 0;
+}
+.doctor-strange-multiverse-container1,
+.sign-up1,
+.spider-man-no-way-container1 {
+  position: absolute;
+  height: 2.11%;
+  width: 25.62%;
+  top: 97.89%;
+  left: 57.4%;
+  display: inline-block;
+}
+.sign-up1,
+.spider-man-no-way-container1 {
+  top: 45.96%;
+}
+.sign-up1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  height: 1.14%;
+  width: 12.11%;
+  top: 0;
+  left: 87.89%;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  font-family: var(--font-k2d);
+  color: var(--color-white);
+  text-align: left;
+}
+.text9 {
+  position: absolute;
+  height: 97.64%;
+  width: 96.35%;
+  top: 1.16%;
+  right: 1.77%;
+  bottom: 1.2%;
+  left: 1.88%;
+}
+.bat-1-icon3,
+.bat-2-icon3,
+.north-1-icon3,
+.north-2-icon3,
+.sonic-1-icon2,
+.sonic-2-icon5,
+.sonic-3-icon,
+.spider-1-icon3,
+.spider-2-icon3 {
+  position: absolute;
+  height: 17.01%;
+  width: 37.3%;
+  top: 0.01%;
+  right: 0;
+  bottom: 82.98%;
+  left: 62.7%;
+  border-radius: var(--br-sm);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.bat-1-icon3,
+.bat-2-icon3,
+.north-1-icon3,
+.north-2-icon3,
+.sonic-2-icon5,
+.sonic-3-icon,
+.spider-1-icon3,
+.spider-2-icon3 {
+  top: 0;
+  bottom: 82.99%;
+}
+.bat-1-icon3,
+.bat-2-icon3,
+.north-1-icon3,
+.north-2-icon3,
+.sonic-2-icon5,
+.spider-1-icon3,
+.spider-2-icon3 {
+  top: 82.9%;
+  right: 62.7%;
+  bottom: 0.09%;
+  left: 0;
+}
+.bat-1-icon3,
+.bat-2-icon3,
+.north-2-icon3,
+.sonic-2-icon5,
+.spider-1-icon3,
+.spider-2-icon3 {
+  top: 82.99%;
+  right: 0;
+  bottom: 0;
+  left: 62.7%;
+}
+.bat-1-icon3,
+.bat-2-icon3,
+.north-2-icon3,
+.sonic-2-icon5,
+.spider-2-icon3 {
+  top: 0.01%;
+  right: 62.7%;
+  bottom: 82.98%;
+  left: 0;
+}
+.bat-2-icon3,
+.north-2-icon3,
+.sonic-2-icon5,
+.spider-2-icon3 {
+  top: 55.28%;
+  bottom: 27.71%;
+}
+.bat-2-icon3,
+.north-2-icon3,
+.spider-2-icon3 {
+  top: 55.19%;
+  right: 0;
+  bottom: 27.8%;
+  left: 62.7%;
+}
+.bat-2-icon3,
+.spider-2-icon3 {
+  top: 27.62%;
+  bottom: 55.37%;
+}
+.bat-2-icon3 {
+  right: 62.7%;
+  left: 0;
+}
+.imagini17 {
+  position: absolute;
+  height: 91.73%;
+  width: 61.53%;
+  top: 5.09%;
+  right: 18.99%;
+  bottom: 3.17%;
+  left: 19.48%;
+}
+.figuri-item {
+  cursor: pointer;
+  padding: 0;
+  background-color: transparent;
+  width: 10.51%;
+  top: -2.04%;
+  right: -0.07%;
+  bottom: 0;
+  left: 89.56%;
+}
+.figuri-inner:hover,
+.figuri-item:hover {
+  animation: 1s ease 0s infinite normal none shadow-inset-center;
+  opacity: 1;
+}
+.figuri-inner,
+.figuri-item,
+.rectangle-input {
+  border: 2px solid var(--color-white);
+  position: absolute;
+  height: 102.04%;
+  border-radius: var(--br-md);
+  box-sizing: border-box;
+}
+.figuri-inner {
+  cursor: pointer;
+  padding: 0;
+  background-color: transparent;
+  width: 10.51%;
+  top: 0;
+  right: 16.79%;
+  bottom: -2.04%;
+  left: 72.7%;
+}
+.rectangle-input {
+  background-color: var(--color-white);
+  width: 66.42%;
+  top: -2.04%;
+  right: 33.64%;
+  bottom: 0;
+  left: -0.07%;
+}
+.figuri1 {
+  position: absolute;
+  height: 1.13%;
+  width: 78.8%;
+  top: 1.16%;
+  right: 6.46%;
+  bottom: 97.71%;
+  left: 14.74%;
+}
+.menu-icon4,
+.search-icon3 {
+  position: absolute;
+  height: 0.74%;
+  width: 1.67%;
+  top: 1.34%;
+  right: 33.8%;
+  bottom: 97.92%;
+  left: 64.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.menu-icon4 {
+  height: 1.25%;
+  width: 2.81%;
+  top: 1.04%;
+  right: 1.04%;
+  bottom: 97.71%;
+  left: 96.15%;
+}
+.start {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 4320px;
+  overflow-y: auto;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-k2d);
+}
+.imagini,
+.spider-2-icon {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.spider-2-icon {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  border-radius: var(--br-2xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.imagini {
+  height: 99.81%;
+  width: 40.68%;
+  top: 0.19%;
+  right: 59.32%;
+  filter: blur(60px);
+}
+.spider-man-no-way {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.imagini1,
+.text {
+  position: absolute;
+}
+.text {
+  height: 12.31%;
+  width: 32.71%;
+  top: 0.19%;
+  right: 21.56%;
+  bottom: 87.5%;
+  left: 45.73%;
+  font-size: var(--font-size-2xl);
+}
+.imagini1 {
+  height: 58.24%;
+  width: 21.77%;
+  top: 19.44%;
+  right: 67.86%;
+  bottom: 22.31%;
+  left: 10.36%;
+}
+.with-spider-mans-identity {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.with-spider-mans-identity-container {
+  position: absolute;
+  height: 8.98%;
+  width: 52.03%;
+  top: 61.57%;
+  left: 45.73%;
+  font-size: var(--font-size-2xs);
+  display: inline-block;
+}
+.genre-action-adventure {
+  position: absolute;
+  top: 18.43%;
+  left: 45.73%;
+}
+.director-jon-watts,
+.writers-chris-mckenna {
+  position: absolute;
+  top: 25.46%;
+  left: 45.73%;
+}
+.writers-chris-mckenna {
+  top: 32.5%;
+}
+.stars-tom-holland {
+  position: absolute;
+  top: 39.54%;
+  left: 46.04%;
+}
+.spider-man-child {
+  height: 11.57%;
+  width: 8.7%;
+  top: 78.89%;
+  right: 23.91%;
+  bottom: 9.54%;
+  left: 67.4%;
+  border-radius: var(--br-xl);
+  background-color: var(--color-black);
+  border: 6px solid var(--color-white);
+}
+.spider-man-child,
+.spider-man-inner,
+.spider-man-item {
+  position: absolute;
+  box-sizing: border-box;
+}
+.spider-man-item {
+  height: 6.2%;
+  width: 8.1%;
+  top: 82.22%;
+  right: 43.87%;
+  bottom: 11.57%;
+  left: 48.02%;
+  border-radius: var(--br-lg);
+  background-color: var(--color-black);
+  border: 4.3px solid var(--color-white);
+}
+.spider-man-inner {
+  height: 6.6%;
+  width: 0.23%;
+  top: 82.02%;
+  right: 47.81%;
+  bottom: 11.37%;
+  left: 51.96%;
+  border-right: 4.3px solid var(--color-white);
+}
+.arrow-icon,
+.bookmark-icon,
+.like-icon,
+.like-icon1,
+.play-icon {
+  position: absolute;
+  height: 4.34%;
+  width: 2.44%;
+  top: 82.89%;
+  right: 48.53%;
+  bottom: 12.77%;
+  left: 49.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.arrow-icon,
+.bookmark-icon,
+.like-icon1,
+.play-icon {
+  top: 83.42%;
+  right: 44.89%;
+  bottom: 12.24%;
+  left: 52.67%;
+}
+.arrow-icon,
+.bookmark-icon,
+.play-icon {
+  height: 6.02%;
+  width: 3.39%;
+  top: 81.67%;
+  right: 7.5%;
+  bottom: 12.31%;
+  left: 89.11%;
+}
+.arrow-icon,
+.play-icon {
+  top: 81.76%;
+  right: 26.56%;
+  bottom: 12.22%;
+  left: 70.05%;
+}
+.arrow-icon {
+  top: 2.41%;
+  right: 2.24%;
+  bottom: 91.57%;
+  left: 94.38%;
+}
+.h-28min {
+  position: absolute;
+  top: 93.15%;
+  left: 68.02%;
+  font-size: var(--font-size-sm);
+}
+.spider-man {
+  position: relative;
+  background-color: var(--color-black);
+  width: 1920px;
+  height: 1080px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-k2d);
+}
+.imagini2,
+.north-2-icon {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.north-2-icon {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  border-radius: var(--br-2xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.imagini2 {
+  height: 99.81%;
+  width: 40.68%;
+  top: 0.19%;
+  right: 59.32%;
+  filter: blur(60px);
+}
+.morbius-2022 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.text1 {
+  position: absolute;
+  height: 12.31%;
+  width: 32.71%;
+  top: 0.19%;
+  right: 21.56%;
+  bottom: 87.5%;
+  left: 45.73%;
+  font-size: var(--font-size-2xl);
+}
+.imagini3 {
+  position: absolute;
+  height: 58.43%;
+  width: 21.77%;
+  top: 19.26%;
+  right: 67.86%;
+  bottom: 22.31%;
+  left: 10.36%;
+}
+.biochemist-michael-morbius {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.biochemist-michael-morbius-container {
+  position: absolute;
+  height: 8.98%;
+  width: 52.03%;
+  top: 61.57%;
+  left: 45.73%;
+  font-size: var(--font-size-2xs);
+  display: inline-block;
+}
+.director-daniel-espinosa,
+.genre-action-adventure1 {
+  position: absolute;
+  top: 18.43%;
+  left: 45.73%;
+}
+.director-daniel-espinosa {
+  top: 25.46%;
+}
+.stars-jared-leto,
+.writers-matt-sazama {
+  position: absolute;
+  top: 32.5%;
+  left: 45.73%;
+}
+.stars-jared-leto {
+  top: 39.54%;
+}
+.morbius-child {
+  height: 11.57%;
+  width: 8.7%;
+  top: 78.89%;
+  right: 23.91%;
+  bottom: 9.54%;
+  left: 67.4%;
+  border-radius: var(--br-xl);
+  background-color: var(--color-black);
+  border: 6px solid var(--color-white);
+}
+.morbius-child,
+.morbius-inner,
+.morbius-item {
+  position: absolute;
+  box-sizing: border-box;
+}
+.morbius-item {
+  height: 6.2%;
+  width: 8.1%;
+  top: 82.22%;
+  right: 43.87%;
+  bottom: 11.57%;
+  left: 48.02%;
+  border-radius: var(--br-lg);
+  background-color: var(--color-black);
+  border: 4.3px solid var(--color-white);
+}
+.morbius-inner {
+  height: 6.6%;
+  width: 0.23%;
+  top: 82.02%;
+  right: 47.81%;
+  bottom: 11.37%;
+  left: 51.96%;
+  border-right: 4.3px solid var(--color-white);
+}
+.arrow-icon1,
+.bookmark-icon1,
+.like-icon2,
+.like-icon3,
+.play-icon1 {
+  position: absolute;
+  height: 4.34%;
+  width: 2.44%;
+  top: 82.89%;
+  right: 48.53%;
+  bottom: 12.77%;
+  left: 49.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.arrow-icon1,
+.bookmark-icon1,
+.like-icon3,
+.play-icon1 {
+  top: 83.42%;
+  right: 44.89%;
+  bottom: 12.24%;
+  left: 52.67%;
+}
+.arrow-icon1,
+.bookmark-icon1,
+.play-icon1 {
+  height: 6.02%;
+  width: 3.39%;
+  top: 81.67%;
+  right: 7.5%;
+  bottom: 12.31%;
+  left: 89.11%;
+}
+.arrow-icon1,
+.play-icon1 {
+  top: 81.76%;
+  right: 26.56%;
+  bottom: 12.22%;
+  left: 70.05%;
+}
+.arrow-icon1 {
+  top: 2.41%;
+  right: 2.24%;
+  bottom: 91.57%;
+  left: 94.38%;
+}
+.h-44min {
+  position: absolute;
+  top: 93.15%;
+  left: 68.49%;
+  font-size: var(--font-size-sm);
+}
+.morbius {
+  position: relative;
+  background-color: var(--color-black);
+  width: 1920px;
+  height: 1080px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-k2d);
+}
+.imagini4,
+.sonic-2-icon {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.sonic-2-icon {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  border-radius: var(--br-2xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.imagini4 {
+  height: 99.81%;
+  width: 40.68%;
+  top: 0.19%;
+  right: 59.32%;
+  filter: blur(99px);
+}
+.the-secrets-of {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.text2 {
+  position: absolute;
+  height: 12.31%;
+  width: 32.71%;
+  top: 0.19%;
+  right: 21.56%;
+  bottom: 87.5%;
+  left: 45.73%;
+  font-size: var(--font-size-2xl);
+}
+.imagini5 {
+  position: absolute;
+  height: 58.43%;
+  width: 21.77%;
+  top: 19.26%;
+  right: 67.86%;
+  bottom: 22.31%;
+  left: 10.36%;
+}
+.albus-dumbledore-assigns {
+  position: absolute;
+  height: 8.98%;
+  width: 52.03%;
+  top: 61.57%;
+  left: 45.73%;
+  font-size: var(--font-size-2xs);
+  display: inline-block;
+}
+.director-davit-yates,
+.genre-adventure-family {
+  position: absolute;
+  top: 18.43%;
+  left: 45.73%;
+}
+.director-davit-yates {
+  top: 25.46%;
+}
+.stars-eddie-redmayne,
+.writers-j-k {
+  position: absolute;
+  top: 32.5%;
+  left: 45.73%;
+}
+.stars-eddie-redmayne {
+  top: 39.54%;
+}
+.dumbledore-child {
+  height: 11.57%;
+  width: 8.7%;
+  top: 78.89%;
+  right: 23.91%;
+  bottom: 9.54%;
+  left: 67.4%;
+  border-radius: var(--br-xl);
+  background-color: var(--color-black);
+  border: 6px solid var(--color-white);
+}
+.dumbledore-child,
+.dumbledore-inner,
+.dumbledore-item {
+  position: absolute;
+  box-sizing: border-box;
+}
+.dumbledore-item {
+  height: 6.2%;
+  width: 8.1%;
+  top: 82.22%;
+  right: 43.87%;
+  bottom: 11.57%;
+  left: 48.02%;
+  border-radius: var(--br-lg);
+  background-color: var(--color-black);
+  border: 4.3px solid var(--color-white);
+}
+.dumbledore-inner {
+  height: 6.6%;
+  width: 0.23%;
+  top: 82.02%;
+  right: 47.81%;
+  bottom: 11.37%;
+  left: 51.96%;
+  border-right: 4.3px solid var(--color-white);
+}
+.arrow-icon2,
+.bookmark-icon2,
+.like-icon4,
+.like-icon5,
+.play-icon2 {
+  position: absolute;
+  height: 4.34%;
+  width: 2.44%;
+  top: 82.89%;
+  right: 48.53%;
+  bottom: 12.77%;
+  left: 49.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.arrow-icon2,
+.bookmark-icon2,
+.like-icon5,
+.play-icon2 {
+  top: 83.42%;
+  right: 44.89%;
+  bottom: 12.24%;
+  left: 52.67%;
+}
+.arrow-icon2,
+.bookmark-icon2,
+.play-icon2 {
+  height: 6.02%;
+  width: 3.39%;
+  top: 81.67%;
+  right: 7.5%;
+  bottom: 12.31%;
+  left: 89.11%;
+}
+.arrow-icon2,
+.play-icon2 {
+  top: 81.76%;
+  right: 26.56%;
+  bottom: 12.22%;
+  left: 70.05%;
+}
+.arrow-icon2 {
+  top: 2.41%;
+  right: 2.24%;
+  bottom: 91.57%;
+  left: 94.38%;
+}
+.h-23min {
+  position: absolute;
+  top: 93.15%;
+  left: 68.13%;
+  font-size: var(--font-size-sm);
+}
+.dumbledore {
+  position: relative;
+  background-color: var(--color-black);
+  width: 1920px;
+  height: 1080px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-k2d);
+}
+.bat-2-icon,
+.imagini6 {
+  position: absolute;
+  left: 0;
+  width: 781px;
+  height: 1078px;
+}
+.bat-2-icon {
+  top: 0;
+  border-radius: var(--br-2xs);
+  object-fit: cover;
+}
+.imagini6 {
+  top: 2px;
+  filter: blur(60px);
+}
+.text3,
+.the-bad-guys {
+  position: absolute;
+  width: 628px;
+  height: 133px;
+}
+.the-bad-guys {
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.text3 {
+  top: 2px;
+  left: 878px;
+  font-size: var(--font-size-2xl);
+}
+.bat-2-icon1,
+.imagini7 {
+  position: absolute;
+  width: 418px;
+  height: 631px;
+}
+.bat-2-icon1 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  object-fit: cover;
+}
+.imagini7 {
+  top: 208px;
+  left: 199px;
+}
+.several-reformed-yet {
+  position: absolute;
+  top: 665px;
+  left: 878px;
+  font-size: var(--font-size-2xs);
+  display: inline-block;
+  width: 999px;
+  height: 97px;
+}
+.director-pierre-perifel,
+.genre-animation-adventure {
+  position: absolute;
+  top: 199px;
+  left: 878px;
+}
+.director-pierre-perifel {
+  top: 275px;
+}
+.stars-sam-rockwell,
+.writers-aaron-blabey {
+  position: absolute;
+  top: 351px;
+  left: 878px;
+}
+.stars-sam-rockwell {
+  top: 427px;
+}
+.bad-guys-child {
+  top: 852px;
+  left: 1294px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-black);
+  border: 6px solid var(--color-white);
+  width: 167px;
+  height: 125px;
+}
+.bad-guys-child,
+.bad-guys-inner,
+.bad-guys-item {
+  position: absolute;
+  box-sizing: border-box;
+}
+.bad-guys-item {
+  top: 888px;
+  left: 922px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-black);
+  border: 4.3px solid var(--color-white);
+  width: 155.61px;
+  height: 67px;
+}
+.bad-guys-inner {
+  top: 885.84px;
+  left: 997.65px;
+  border-right: 4.3px solid var(--color-white);
+  width: 4.32px;
+  height: 71.32px;
+}
+.like-icon6,
+.like-icon7 {
+  position: absolute;
+  top: 895.2px;
+  left: 941.45px;
+  width: 46.83px;
+  height: 46.83px;
+}
+.like-icon7 {
+  top: 900.97px;
+  left: 1011.33px;
+}
+.arrow-icon3,
+.bookmark-icon3,
+.play-icon3 {
+  position: absolute;
+  top: 882px;
+  left: 1711px;
+  width: 65px;
+  height: 65px;
+}
+.arrow-icon3,
+.play-icon3 {
+  top: 883px;
+  left: 1345px;
+}
+.arrow-icon3 {
+  top: 26px;
+  left: 1812px;
+}
+.h-40min {
+  position: absolute;
+  top: 1006px;
+  left: 1312px;
+  font-size: var(--font-size-sm);
+}
+.bad-guys {
+  position: relative;
+  background-color: var(--color-black);
+  width: 1920px;
+  height: 1080px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-k2d);
+}
+.spider-1-icon {
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-2xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.doctor-strange-multiverse,
+.imagini8,
+.spider-1-icon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+.imagini8 {
+  width: 40.68%;
+  right: 59.32%;
+  bottom: 0;
+  filter: blur(60px);
+}
+.doctor-strange-multiverse {
+  width: 100%;
+  display: inline-block;
+}
+.text4 {
+  position: absolute;
+  height: 12.31%;
+  width: 32.71%;
+  top: 0.19%;
+  right: 21.56%;
+  bottom: 87.5%;
+  left: 45.73%;
+  font-size: var(--font-size-2xl);
+}
+.imagini9 {
+  position: absolute;
+  height: 58.43%;
+  width: 21.77%;
+  top: 19.26%;
+  right: 67.86%;
+  bottom: 22.31%;
+  left: 10.36%;
+}
+.dr-stephen-strange {
+  position: absolute;
+  height: 8.98%;
+  width: 52.03%;
+  top: 61.57%;
+  left: 45.73%;
+  font-size: var(--font-size-2xs);
+  display: inline-block;
+}
+.genre-action-adventure2 {
+  position: absolute;
+  top: 18.43%;
+  left: 45.73%;
+}
+.director-sam-raimi,
+.writers-michael-waldron {
+  position: absolute;
+  top: 25.46%;
+  left: 45.73%;
+}
+.writers-michael-waldron {
+  top: 32.5%;
+}
+.h-6min,
+.stars-benedict-cumberbatch {
+  position: absolute;
+  top: 39.54%;
+  left: 45.73%;
+}
+.h-6min {
+  top: 92.04%;
+  left: 68.8%;
+  font-size: var(--font-size-sm);
+}
+.doctor-strange-child,
+.doctor-strange-item {
+  position: absolute;
+  height: 11.57%;
+  width: 8.7%;
+  top: 78.89%;
+  right: 23.91%;
+  bottom: 9.54%;
+  left: 67.4%;
+  border-radius: var(--br-xl);
+  background-color: var(--color-black);
+  border: 6px solid var(--color-white);
+  box-sizing: border-box;
+}
+.doctor-strange-item {
+  height: 6.2%;
+  width: 8.1%;
+  top: 82.22%;
+  right: 43.87%;
+  bottom: 11.57%;
+  left: 48.02%;
+  border-radius: var(--br-lg);
+  border: 4.3px solid var(--color-white);
+}
+.doctor-strange-inner {
+  position: absolute;
+  height: 6.6%;
+  width: 0.23%;
+  top: 82.02%;
+  right: 47.81%;
+  bottom: 11.37%;
+  left: 51.96%;
+  border-right: 4.3px solid var(--color-white);
+  box-sizing: border-box;
+}
+.arrow-icon4,
+.bookmark-icon4,
+.like-icon8,
+.like-icon9,
+.play-icon4 {
+  position: absolute;
+  height: 4.34%;
+  width: 2.44%;
+  top: 82.89%;
+  right: 48.53%;
+  bottom: 12.77%;
+  left: 49.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.arrow-icon4,
+.bookmark-icon4,
+.like-icon9,
+.play-icon4 {
+  top: 83.42%;
+  right: 44.89%;
+  bottom: 12.24%;
+  left: 52.67%;
+}
+.arrow-icon4,
+.bookmark-icon4,
+.play-icon4 {
+  height: 6.02%;
+  width: 3.39%;
+  top: 81.67%;
+  right: 7.5%;
+  bottom: 12.31%;
+  left: 89.11%;
+}
+.arrow-icon4,
+.play-icon4 {
+  top: 81.76%;
+  right: 26.56%;
+  bottom: 12.22%;
+  left: 70.05%;
+}
+.arrow-icon4 {
+  top: 2.41%;
+  right: 2.24%;
+  bottom: 91.57%;
+  left: 94.38%;
+}
+.doctor-strange {
+  position: relative;
+  background-color: var(--color-black);
+  width: 1920px;
+  height: 1080px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-k2d);
+}
+.imagini10,
+.north-1-icon {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.north-1-icon {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  border-radius: var(--br-2xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.imagini10 {
+  height: 99.81%;
+  width: 40.68%;
+  top: 0.19%;
+  right: 59.32%;
+  filter: blur(60px);
+}
+.the-northman-2022 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.text5 {
+  position: absolute;
+  height: 4.44%;
+  width: 27.08%;
+  top: 0.19%;
+  right: 27.19%;
+  bottom: 95.37%;
+  left: 45.73%;
+  font-size: var(--font-size-2xl);
+}
+.imagini11 {
+  position: absolute;
+  height: 58.43%;
+  width: 21.77%;
+  top: 19.26%;
+  right: 67.86%;
+  bottom: 22.31%;
+  left: 10.36%;
+}
+.from-visionary-director {
+  position: absolute;
+  height: 7.69%;
+  width: 52.03%;
+  top: 61.57%;
+  left: 45.73%;
+  font-size: var(--font-size-2xs);
+  display: inline-block;
+}
+.director-robert-eggers,
+.genre-action-adventure3 {
+  position: absolute;
+  top: 18.43%;
+  left: 45.73%;
+}
+.director-robert-eggers {
+  top: 25.46%;
+}
+.stars-alexander-skarsgard,
+.writers-sjon-robert {
+  position: absolute;
+  top: 32.5%;
+  left: 45.73%;
+}
+.stars-alexander-skarsgard {
+  top: 39.54%;
+}
+.northman-child {
+  height: 11.57%;
+  width: 8.7%;
+  top: 78.89%;
+  right: 23.91%;
+  bottom: 9.54%;
+  left: 67.4%;
+  border-radius: var(--br-xl);
+  background-color: var(--color-black);
+  border: 6px solid var(--color-white);
+}
+.northman-child,
+.northman-inner,
+.northman-item {
+  position: absolute;
+  box-sizing: border-box;
+}
+.northman-item {
+  height: 6.2%;
+  width: 8.1%;
+  top: 82.22%;
+  right: 43.87%;
+  bottom: 11.57%;
+  left: 48.02%;
+  border-radius: var(--br-lg);
+  background-color: var(--color-black);
+  border: 4.3px solid var(--color-white);
+}
+.northman-inner {
+  height: 6.6%;
+  width: 0.23%;
+  top: 82.02%;
+  right: 47.81%;
+  bottom: 11.37%;
+  left: 51.96%;
+  border-right: 4.3px solid var(--color-white);
+}
+.arrow-icon5,
+.bookmark-icon5,
+.like-icon10,
+.like-icon11,
+.play-icon5 {
+  position: absolute;
+  height: 4.34%;
+  width: 2.44%;
+  top: 82.89%;
+  right: 48.53%;
+  bottom: 12.77%;
+  left: 49.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.arrow-icon5,
+.bookmark-icon5,
+.like-icon11,
+.play-icon5 {
+  top: 83.42%;
+  right: 44.89%;
+  bottom: 12.24%;
+  left: 52.67%;
+}
+.arrow-icon5,
+.bookmark-icon5,
+.play-icon5 {
+  height: 6.02%;
+  width: 3.39%;
+  top: 81.67%;
+  right: 7.5%;
+  bottom: 12.31%;
+  left: 89.11%;
+}
+.arrow-icon5,
+.play-icon5 {
+  top: 81.76%;
+  right: 26.56%;
+  bottom: 12.22%;
+  left: 70.05%;
+}
+.arrow-icon5 {
+  top: 2.41%;
+  right: 2.24%;
+  bottom: 91.57%;
+  left: 94.38%;
+}
+.h-17min {
+  position: absolute;
+  top: 93.15%;
+  left: 68.39%;
+  font-size: var(--font-size-sm);
+}
+.northman {
+  position: relative;
+  background-color: var(--color-black);
+  width: 1920px;
+  height: 1080px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-k2d);
+}
+.sonic-2-icon2 {
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-sm);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.imagini12,
+.sonic-2-icon2,
+.wednesday2022 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+.imagini12 {
+  width: 41.56%;
+  right: 58.44%;
+  bottom: 0;
+  filter: blur(60px);
+}
+.wednesday2022 {
+  width: 100%;
+  display: inline-block;
+}
+.text6 {
+  position: absolute;
+  height: 7.31%;
+  width: 22.97%;
+  top: 0.19%;
+  right: 31.3%;
+  bottom: 92.5%;
+  left: 45.73%;
+  font-size: var(--font-size-2xl);
+}
+.sonic-1-icon {
+  position: absolute;
+  height: 93.62%;
+  width: 94.85%;
+  top: 3.12%;
+  right: 2.57%;
+  bottom: 3.26%;
+  left: 2.58%;
+  border-radius: var(--br-2xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.imagini13 {
+  position: absolute;
+  height: 62.41%;
+  width: 22.95%;
+  top: 17.31%;
+  right: 67.27%;
+  bottom: 20.28%;
+  left: 9.77%;
+}
+.follows-wednesday-addams {
+  position: absolute;
+  height: 7.69%;
+  width: 52.03%;
+  top: 61.57%;
+  left: 45.73%;
+  font-size: var(--font-size-2xs);
+  display: inline-block;
+}
+.director-alfred-gough,
+.genre-crime-comedy {
+  position: absolute;
+  top: 18.43%;
+  left: 45.73%;
+}
+.director-alfred-gough {
+  top: 25.46%;
+}
+.stars-jenna-ortega,
+.writers-patt-casey {
+  position: absolute;
+  top: 32.5%;
+  left: 45.73%;
+}
+.stars-jenna-ortega {
+  top: 39.54%;
+}
+.wednesday-child {
+  height: 11.57%;
+  width: 8.7%;
+  top: 78.89%;
+  right: 23.91%;
+  bottom: 9.54%;
+  left: 67.4%;
+  border-radius: var(--br-xl);
+  background-color: var(--color-black);
+  border: 6px solid var(--color-white);
+}
+.wednesday-child,
+.wednesday-inner,
+.wednesday-item {
+  position: absolute;
+  box-sizing: border-box;
+}
+.wednesday-item {
+  height: 6.2%;
+  width: 8.1%;
+  top: 82.22%;
+  right: 43.87%;
+  bottom: 11.57%;
+  left: 48.02%;
+  border-radius: var(--br-lg);
+  background-color: var(--color-black);
+  border: 4.3px solid var(--color-white);
+}
+.wednesday-inner {
+  height: 6.6%;
+  width: 0.23%;
+  top: 82.02%;
+  right: 47.81%;
+  bottom: 11.37%;
+  left: 51.96%;
+  border-right: 4.3px solid var(--color-white);
+}
+.arrow-icon6,
+.bookmark-icon6,
+.like-icon12,
+.like-icon13,
+.play-icon6 {
+  position: absolute;
+  height: 4.34%;
+  width: 2.44%;
+  top: 82.89%;
+  right: 48.53%;
+  bottom: 12.77%;
+  left: 49.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.arrow-icon6,
+.bookmark-icon6,
+.like-icon13,
+.play-icon6 {
+  top: 83.42%;
+  right: 44.89%;
+  bottom: 12.24%;
+  left: 52.67%;
+}
+.arrow-icon6,
+.bookmark-icon6,
+.play-icon6 {
+  height: 6.02%;
+  width: 3.39%;
+  top: 81.67%;
+  right: 7.5%;
+  bottom: 12.31%;
+  left: 89.11%;
+}
+.arrow-icon6,
+.play-icon6 {
+  top: 81.76%;
+  right: 26.56%;
+  bottom: 12.22%;
+  left: 70.05%;
+}
+.arrow-icon6 {
+  top: 2.41%;
+  right: 2.24%;
+  bottom: 91.57%;
+  left: 94.38%;
+}
+.h-2min {
+  position: absolute;
+  top: 93.15%;
+  left: 68.7%;
+  font-size: var(--font-size-sm);
+}
+.wednesday {
+  position: relative;
+  background-color: var(--color-black);
+  width: 1920px;
+  height: 1080px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-k2d);
+}
+.bat-1-icon {
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-2xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.bat-1-icon,
+.batman-2022,
+.imagini14 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+.imagini14 {
+  width: 40.68%;
+  right: 59.32%;
+  bottom: 0;
+  filter: blur(60px);
+}
+.batman-2022 {
+  width: 100%;
+  display: inline-block;
+}
+.text7 {
+  position: absolute;
+  height: 4.44%;
+  width: 20.78%;
+  top: 0.19%;
+  right: 33.49%;
+  bottom: 95.37%;
+  left: 45.73%;
+  font-size: var(--font-size-2xl);
+}
+.imagini15 {
+  position: absolute;
+  height: 58.43%;
+  width: 21.77%;
+  top: 19.26%;
+  right: 67.86%;
+  bottom: 22.31%;
+  left: 10.36%;
+}
+.when-the-riddler {
+  position: absolute;
+  height: 13.89%;
+  width: 52.03%;
+  top: 61.57%;
+  left: 45.73%;
+  font-size: var(--font-size-2xs);
+  display: inline-block;
+}
+.director-matt-reeves,
+.genre-action-crime {
+  position: absolute;
+  top: 18.43%;
+  left: 45.73%;
+}
+.director-matt-reeves {
+  top: 25.46%;
+}
+.stars-robert-pattinson,
+.writers-matt-reeves {
+  position: absolute;
+  top: 32.5%;
+  left: 45.73%;
+}
+.stars-robert-pattinson {
+  top: 39.54%;
+}
+.batman-child {
+  height: 11.57%;
+  width: 8.7%;
+  top: 78.89%;
+  right: 23.91%;
+  bottom: 9.54%;
+  left: 67.4%;
+  border-radius: var(--br-xl);
+  background-color: var(--color-black);
+  border: 6px solid var(--color-white);
+}
+.batman-child,
+.batman-inner,
+.batman-item {
+  position: absolute;
+  box-sizing: border-box;
+}
+.batman-item {
+  height: 6.2%;
+  width: 8.1%;
+  top: 82.22%;
+  right: 43.87%;
+  bottom: 11.57%;
+  left: 48.02%;
+  border-radius: var(--br-lg);
+  background-color: var(--color-black);
+  border: 4.3px solid var(--color-white);
+}
+.batman-inner {
+  height: 6.6%;
+  width: 0.23%;
+  top: 82.02%;
+  right: 47.81%;
+  bottom: 11.37%;
+  left: 51.96%;
+  border-right: 4.3px solid var(--color-white);
+}
+.arrow-icon7,
+.bookmark-icon7,
+.like-icon14,
+.like-icon15,
+.play-icon7 {
+  position: absolute;
+  height: 4.34%;
+  width: 2.44%;
+  top: 82.89%;
+  right: 48.53%;
+  bottom: 12.77%;
+  left: 49.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.arrow-icon7,
+.bookmark-icon7,
+.like-icon15,
+.play-icon7 {
+  top: 83.42%;
+  right: 44.89%;
+  bottom: 12.24%;
+  left: 52.67%;
+}
+.arrow-icon7,
+.bookmark-icon7,
+.play-icon7 {
+  height: 6.02%;
+  width: 3.39%;
+  top: 81.67%;
+  right: 7.5%;
+  bottom: 12.31%;
+  left: 89.11%;
+}
+.arrow-icon7,
+.play-icon7 {
+  top: 81.76%;
+  right: 26.56%;
+  bottom: 12.22%;
+  left: 70.05%;
+}
+.arrow-icon7 {
+  top: 2.41%;
+  right: 2.24%;
+  bottom: 91.57%;
+  left: 94.38%;
+}
+.h-56min {
+  position: absolute;
+  top: 93.15%;
+  left: 68.13%;
+  font-size: var(--font-size-sm);
+}
+.batman,
+.group-child {
+  background-color: var(--color-black);
+}
+.batman {
+  position: relative;
+  width: 1920px;
+  height: 1080px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-k2d);
+}
+.group-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.contact-us,
+.personal-account {
+  position: absolute;
+  height: 4.26%;
+  width: 49.5%;
+  top: 19.44%;
+  left: 16.5%;
+  display: inline-block;
+}
+.contact-us {
+  height: 3.61%;
+  width: 35%;
+  top: 70.37%;
+  left: 14.83%;
+}
+.mail-icon {
+  position: absolute;
+  height: 6.02%;
+  width: 10.83%;
+  top: 69.72%;
+  right: 83.5%;
+  bottom: 24.26%;
+  left: 5.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.disconnect1,
+.line-icon3 {
+  position: absolute;
+  top: 83.52%;
+  cursor: pointer;
+}
+.disconnect1 {
+  height: 4.26%;
+  width: 38.67%;
+  left: 6.67%;
+  display: inline-block;
+}
+.line-icon3 {
+  height: 4.63%;
+  width: 5%;
+  right: 88.83%;
+  bottom: 11.85%;
+  left: 6.17%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.about-us {
+  position: absolute;
+  height: 4.26%;
+  width: 28.33%;
+  top: 57.5%;
+  left: 15.5%;
+  display: inline-block;
+}
+.info-icon {
+  position: absolute;
+  height: 6.02%;
+  width: 10.83%;
+  top: 56.85%;
+  right: 83.5%;
+  bottom: 37.13%;
+  left: 5.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.saved1 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.saved {
+  position: absolute;
+  height: 4.26%;
+  width: 28.83%;
+  top: 44.91%;
+  left: 11.33%;
+  display: inline-block;
+}
+.bookmark-icon8 {
+  position: absolute;
+  top: 475px;
+  left: 34px;
+  width: 65px;
+  height: 65px;
+}
+.settings-prefferences {
+  position: absolute;
+  height: 9.44%;
+  width: 96%;
+  top: 31.76%;
+  left: 2.17%;
+  display: inline-block;
+}
+.menu-icon,
+.settings-icon,
+.user-icon {
+  position: absolute;
+  height: 6.02%;
+  width: 10.83%;
+  top: 31.11%;
+  right: 83.5%;
+  bottom: 62.87%;
+  left: 5.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.menu-icon,
+.user-icon {
+  top: 18.24%;
+  bottom: 75.74%;
+}
+.menu-icon {
+  top: 5.37%;
+  right: 82.5%;
+  bottom: 88.61%;
+  left: 6.67%;
+}
+.rectangle-parent {
+  position: absolute;
+  height: 100%;
+  width: 95.54%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 4.46%;
+}
+.menu {
+  position: relative;
+  width: 628px;
+  height: 1080px;
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-blue);
+  font-family: var(--font-k2d);
+}
+.login-child,
+.strange-1-icon2 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+}
+.strange-1-icon2 {
+  width: 46.67%;
+  right: 53.33%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.login-child {
+  width: 54.22%;
+  right: 0;
+  left: 45.78%;
+  box-shadow: 0 4px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.login-inner,
+.login-item {
+  position: absolute;
+  height: 5.46%;
+  width: 25.73%;
+  top: 35%;
+  right: 6.2%;
+  bottom: 59.54%;
+  left: 68.07%;
+  border-radius: var(--br-md);
+  border: 3px solid var(--color-white);
+  box-sizing: border-box;
+}
+.login-inner {
+  top: 42.5%;
+  bottom: 52.04%;
+}
+.cancel2,
+.enter-a-password2,
+.enter-an-email2 {
+  position: absolute;
+  height: 4.26%;
+  width: 16.04%;
+  top: 35.56%;
+  left: 52.03%;
+  display: inline-block;
+}
+.cancel2,
+.enter-a-password2 {
+  width: 13.39%;
+  top: 43.06%;
+  left: 54.69%;
+}
+.cancel2 {
+  top: 56.94%;
+  left: 86.2%;
+  cursor: pointer;
+}
+.forgot-password1,
+.remember-password2 {
+  position: absolute;
+  height: 2.69%;
+  width: 12.5%;
+  top: 57.69%;
+  left: 59.22%;
+  font-size: var(--font-size-3xs);
+  display: inline-block;
+}
+.forgot-password1 {
+  top: 94.44%;
+  left: 75.21%;
+}
+.moviemania2,
+.welcome2 {
+  position: absolute;
+  text-align: left;
+  display: inline-block;
+}
+.moviemania2 {
+  height: 4.44%;
+  width: 11.67%;
+  top: 4.81%;
+  left: 1.67%;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-itim);
+}
+.welcome2 {
+  height: 7.5%;
+  width: 15%;
+  top: 17.96%;
+  left: 72.92%;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+}
+.login-child1 {
+  position: absolute;
+  height: 5.65%;
+  width: 8.18%;
+  top: 56.2%;
+  right: 14.48%;
+  bottom: 38.15%;
+  left: 77.34%;
+  border-radius: var(--br-md);
+  background-color: var(--color-white);
+  cursor: pointer;
+}
+.enter1 {
+  position: absolute;
+  height: 4.26%;
+  width: 13.39%;
+  top: 56.94%;
+  left: 74.74%;
+  font-weight: 800;
+  color: var(--color-black);
+  display: inline-block;
+}
+.box64 {
+  height: 41.56%;
+  width: 15.38%;
+  top: 58.44%;
+  right: 84.62%;
+  bottom: 0;
+  left: 0;
+}
+.box64,
+.box65,
+.copy3 {
+  position: absolute;
+}
+.box65 {
+  height: 25.97%;
+  width: 9.62%;
+  top: -1.3%;
+  right: -0.48%;
+  bottom: 75.32%;
+  left: 90.87%;
+  border-radius: var(--br-3xs);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.copy3 {
+  height: 7.13%;
+  width: 10.83%;
+  top: 58.24%;
+  right: 28.28%;
+  bottom: 34.63%;
+  left: 60.89%;
+}
+.login1 {
+  position: relative;
+  background-color: var(--color-black);
+  width: 1920px;
+  height: 1080px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  font-family: var(--font-k2d);
+}
+.popup-overlay {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+.sign-up-child,
+.strange-1-icon3 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+}
+.strange-1-icon3 {
+  width: 47.86%;
+  right: 52.14%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.sign-up-child {
+  width: 54.22%;
+  right: 0;
+  left: 45.78%;
+  box-shadow: 0 4px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.sign-up-inner,
+.sign-up-item {
+  position: absolute;
+  height: 5.46%;
+  width: 25.73%;
+  top: 35%;
+  right: 6.2%;
+  bottom: 59.54%;
+  left: 68.07%;
+  border-radius: var(--br-md);
+  border: 3px solid var(--color-white);
+  box-sizing: border-box;
+}
+.sign-up-inner {
+  top: 42.5%;
+  bottom: 52.04%;
+}
+.enter-a-password3,
+.enter-an-email3 {
+  position: absolute;
+  height: 4.26%;
+  width: 16.04%;
+  top: 35.56%;
+  left: 52.03%;
+  display: inline-block;
+}
+.enter-a-password3 {
+  width: 13.39%;
+  top: 43.06%;
+  left: 54.69%;
+}
+.sign-up-child1 {
+  position: absolute;
+  height: 5.46%;
+  width: 25.73%;
+  top: 50%;
+  right: 6.2%;
+  bottom: 44.54%;
+  left: 68.07%;
+  border-radius: var(--br-md);
+  border: 3px solid var(--color-white);
+  box-sizing: border-box;
+}
+.re-enter-the-password1 {
+  position: absolute;
+  height: 4.26%;
+  width: 16.67%;
+  top: 50.56%;
+  left: 51.41%;
+  display: inline-block;
+}
+.sign-up-child2 {
+  position: absolute;
+  height: 5.46%;
+  width: 25.73%;
+  top: 57.5%;
+  right: 6.2%;
+  bottom: 37.04%;
+  left: 68.07%;
+  border-radius: var(--br-md);
+  border: 3px solid var(--color-white);
+  box-sizing: border-box;
+}
+.enter-a-username1 {
+  height: 4.26%;
+  width: 13.39%;
+  top: 58.06%;
+  left: 54.69%;
+}
+.cancel3,
+.enter-a-username1,
+.moviemania3,
+.welcome3 {
+  position: absolute;
+  display: inline-block;
+}
+.cancel3 {
+  height: 4.26%;
+  width: 13.39%;
+  top: 70.28%;
+  left: 86.15%;
+}
+.moviemania3,
+.welcome3 {
+  text-align: left;
+}
+.moviemania3 {
+  height: 4.44%;
+  width: 11.67%;
+  top: 4.81%;
+  left: 1.67%;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-itim);
+}
+.welcome3 {
+  height: 7.5%;
+  width: 15%;
+  top: 17.96%;
+  left: 72.92%;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+}
+.sign-up-child3 {
+  position: absolute;
+  height: 5.65%;
+  width: 8.18%;
+  top: 69.54%;
+  right: 14.53%;
+  bottom: 24.81%;
+  left: 77.29%;
+  border-radius: var(--br-md);
+  background-color: var(--color-white);
+  cursor: pointer;
+}
+.remember-password3,
+.sign-up3 {
+  position: absolute;
+  display: inline-block;
+}
+.sign-up3 {
+  height: 4.26%;
+  width: 13.39%;
+  top: 70.28%;
+  left: 74.69%;
+  font-weight: 800;
+  color: var(--color-black);
+}
+.remember-password3 {
+  height: 2.69%;
+  width: 12.5%;
+  top: 71.3%;
+  left: 62.19%;
+  font-size: var(--font-size-3xs);
+  cursor: pointer;
+}
+.box66 {
+  height: 41.56%;
+  width: 15.38%;
+  top: 58.44%;
+  right: 84.62%;
+  bottom: 0;
+  left: 0;
+}
+.box66,
+.box67,
+.copy4 {
+  position: absolute;
+}
+.box67 {
+  height: 25.97%;
+  width: 9.62%;
+  top: -1.3%;
+  right: -0.48%;
+  bottom: 75.32%;
+  left: 90.87%;
+  border-radius: var(--br-3xs);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.copy4 {
+  height: 7.13%;
+  width: 10.83%;
+  top: 71.85%;
+  right: 25.31%;
+  bottom: 21.02%;
+  left: 63.85%;
+}
+.sign-up2 {
+  position: relative;
+  background-color: var(--color-black);
+  width: 1920px;
+  height: 1080px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  font-family: var(--font-k2d);
+}

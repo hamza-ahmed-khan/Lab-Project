@@ -1,0 +1,165 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+.imagini4, .sonic-2-icon {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.sonic-2-icon {
+  height: 100%;
+  width: 100%;
+  border-radius: var(--br-2xs);
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+  top: 0;
+  right: 0;
+  overflow: hidden;
+}
+
+.imagini4 {
+  height: 99.81%;
+  width: 40.68%;
+  filter: blur(99px);
+  top: .19%;
+  right: 59.32%;
+}
+
+.the-secrets-of {
+  height: 100%;
+  width: 100%;
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.text2 {
+  height: 12.31%;
+  width: 32.71%;
+  font-size: var(--font-size-2xl);
+  position: absolute;
+  inset: .19% 21.56% 87.5% 45.73%;
+}
+
+.imagini5 {
+  height: 58.43%;
+  width: 21.77%;
+  position: absolute;
+  inset: 19.26% 67.86% 22.31% 10.36%;
+}
+
+.albus-dumbledore-assigns {
+  height: 8.98%;
+  width: 52.03%;
+  font-size: var(--font-size-2xs);
+  display: inline-block;
+  position: absolute;
+  top: 61.57%;
+  left: 45.73%;
+}
+
+.director-davit-yates, .genre-adventure-family {
+  position: absolute;
+  top: 18.43%;
+  left: 45.73%;
+}
+
+.director-davit-yates {
+  top: 25.46%;
+}
+
+.stars-eddie-redmayne, .writers-j-k {
+  position: absolute;
+  top: 32.5%;
+  left: 45.73%;
+}
+
+.stars-eddie-redmayne {
+  top: 39.54%;
+}
+
+.dumbledore-child {
+  height: 11.57%;
+  width: 8.7%;
+  border-radius: var(--br-xl);
+  background-color: var(--color-black);
+  border: 6px solid var(--color-white);
+  inset: 78.89% 23.91% 9.54% 67.4%;
+}
+
+.dumbledore-child, .dumbledore-inner, .dumbledore-item {
+  box-sizing: border-box;
+  position: absolute;
+}
+
+.dumbledore-item {
+  height: 6.2%;
+  width: 8.1%;
+  border-radius: var(--br-lg);
+  background-color: var(--color-black);
+  border: 4.3px solid var(--color-white);
+  inset: 82.22% 43.87% 11.57% 48.02%;
+}
+
+.dumbledore-inner {
+  height: 6.6%;
+  width: .23%;
+  border-right: 4.3px solid var(--color-white);
+  inset: 82.02% 47.81% 11.37% 51.96%;
+}
+
+.arrow-icon2, .bookmark-icon2, .like-icon4, .like-icon5, .play-icon2 {
+  height: 4.34%;
+  width: 2.44%;
+  max-width: 100%;
+  max-height: 100%;
+  position: absolute;
+  inset: 82.89% 48.53% 12.77% 49.03%;
+  overflow: hidden;
+}
+
+.arrow-icon2, .bookmark-icon2, .like-icon5, .play-icon2 {
+  inset: 83.42% 44.89% 12.24% 52.67%;
+}
+
+.arrow-icon2, .bookmark-icon2, .play-icon2 {
+  height: 6.02%;
+  width: 3.39%;
+  inset: 81.67% 7.5% 12.31% 89.11%;
+}
+
+.arrow-icon2, .play-icon2 {
+  inset: 81.76% 26.56% 12.22% 70.05%;
+}
+
+.arrow-icon2 {
+  inset: 2.41% 2.24% 91.57% 94.38%;
+}
+
+.h-23min {
+  font-size: var(--font-size-sm);
+  position: absolute;
+  top: 93.15%;
+  left: 68.13%;
+}
+
+.dumbledore {
+  background-color: var(--color-black);
+  width: 1920px;
+  height: 1080px;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-k2d);
+  position: relative;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=Dumbledore.07844e43.css.map */

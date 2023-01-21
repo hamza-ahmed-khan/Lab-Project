@@ -1,0 +1,33 @@
+:root {
+  /* fonts */
+  --font-k2d: K2D;
+  --font-itim: Itim;
+
+  /* font sizes */
+  --font-size-3xs: 20px;
+  --font-size-2xs: 24px;
+  --font-size-xs: 28px;
+  --font-size-sm: 32px;
+  --font-size-base: 36px;
+  --font-size-lg: 40px;
+  --font-size-xl: 44.44px;
+  --font-size-2xl: 48px;
+  --font-size-3xl: 64px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-white: #fff;
+  --color-blue: #a300ff;
+  --color-gray-100: #f9f9f9;
+  --color-gray-200: #464646;
+
+  /* border radiuses */
+  --br-3xs: 2px;
+  --br-2xs: 15px;
+  --br-xs: 16px;
+  --br-sm: 27.77px;
+  --br-md: 30px;
+  --br-lg: 43.23px;
+  --br-xl: 60px;
+  --br-2xl: 100px;
+}

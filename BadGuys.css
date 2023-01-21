@@ -1,0 +1,159 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.bat-2-icon,
+.imagini6 {
+  position: absolute;
+  left: 0;
+  width: 781px;
+  height: 1078px;
+}
+.bat-2-icon {
+  top: 0;
+  border-radius: var(--br-2xs);
+  object-fit: cover;
+}
+.imagini6 {
+  top: 2px;
+  filter: blur(60px);
+}
+.text3,
+.the-bad-guys {
+  position: absolute;
+  width: 628px;
+  height: 133px;
+}
+.the-bad-guys {
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.text3 {
+  top: 2px;
+  left: 878px;
+  font-size: var(--font-size-2xl);
+}
+.bat-2-icon1,
+.imagini7 {
+  position: absolute;
+  width: 418px;
+  height: 631px;
+}
+.bat-2-icon1 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  object-fit: cover;
+}
+.imagini7 {
+  top: 208px;
+  left: 199px;
+}
+.several-reformed-yet {
+  position: absolute;
+  top: 665px;
+  left: 878px;
+  font-size: var(--font-size-2xs);
+  display: inline-block;
+  width: 999px;
+  height: 97px;
+}
+.director-pierre-perifel,
+.genre-animation-adventure {
+  position: absolute;
+  top: 199px;
+  left: 878px;
+}
+.director-pierre-perifel {
+  top: 275px;
+}
+.stars-sam-rockwell,
+.writers-aaron-blabey {
+  position: absolute;
+  top: 351px;
+  left: 878px;
+}
+.stars-sam-rockwell {
+  top: 427px;
+}
+.bad-guys-child {
+  top: 852px;
+  left: 1294px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-black);
+  border: 6px solid var(--color-white);
+  width: 167px;
+  height: 125px;
+}
+.bad-guys-child,
+.bad-guys-inner,
+.bad-guys-item {
+  position: absolute;
+  box-sizing: border-box;
+}
+.bad-guys-item {
+  top: 888px;
+  left: 922px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-black);
+  border: 4.3px solid var(--color-white);
+  width: 155.61px;
+  height: 67px;
+}
+.bad-guys-inner {
+  top: 885.84px;
+  left: 997.65px;
+  border-right: 4.3px solid var(--color-white);
+  width: 4.32px;
+  height: 71.32px;
+}
+.like-icon6,
+.like-icon7 {
+  position: absolute;
+  top: 895.2px;
+  left: 941.45px;
+  width: 46.83px;
+  height: 46.83px;
+}
+.like-icon7 {
+  top: 900.97px;
+  left: 1011.33px;
+}
+.arrow-icon3,
+.bookmark-icon3,
+.play-icon3 {
+  position: absolute;
+  top: 882px;
+  left: 1711px;
+  width: 65px;
+  height: 65px;
+}
+.arrow-icon3,
+.play-icon3 {
+  top: 883px;
+  left: 1345px;
+}
+.arrow-icon3 {
+  top: 26px;
+  left: 1812px;
+}
+.h-40min {
+  position: absolute;
+  top: 1006px;
+  left: 1312px;
+  font-size: var(--font-size-sm);
+}
+.bad-guys {
+  position: relative;
+  background-color: var(--color-black);
+  width: 1920px;
+  height: 1080px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-k2d);
+}
